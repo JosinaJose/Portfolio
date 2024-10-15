@@ -108,8 +108,8 @@ These are the projects I have worked on:
 **Canadian Equivalency: [Bachelor's degree (four years) : Evaluated by WES](https://www.credly.com/badges/cf4b7d12-73e1-4d53-81bc-22b6e46b51f9/public_url)**
 
 ## 📚 Courses and Certifications🏅 
-- **[Automation QA Engineer Training and Internships](https://www.credly.com/badges/0a9f022f-a1bd-47bf-8ddb-99ea2dd5c25d/public_url) | BusyQA 2022-2023**
-- **[Google Data Analytical Professional Certificate](https://www.credly.com/badges/b9774d48-a8bf-4d33-a1a4-9abdadcf0b48/public_url) | Grow with Google on Coursera 2022**
+- **[Automation QA Engineer Training and Internships](https://www.credly.com/badges/0a9f022f-a1bd-47bf-8ddb-99ea2dd5c25d/public_url)** | **BusyQA 2022-2023**
+- **[Google Data Analytical Professional Certificate](https://www.credly.com/badges/b9774d48-a8bf-4d33-a1a4-9abdadcf0b48/public_url)** | **Grow with Google on Coursera 2022**
 - **Software Testing Bootcamp Training | Udemy-Online:Playwright, JavaScript, Web Design and testing Accessibility (AODA), Lighthouse, Voiceover, JAWS, Microsoft Narator, WAVE, W3C Validator, WCAG, WCAG 
    2.0 AA, Azure Devops-Test Plan**
 - **Associate Course: The complete Salesforce | Udemy**

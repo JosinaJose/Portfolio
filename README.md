@@ -2,16 +2,24 @@
 
  Hello, I'm Josina Jose👋 
 
-I'm a **QA Engineer** with over 4 years of experience in **functional and automation testing**.Currently, I am employed as a **QA Analyst-Intern** at **Racad Tech Inc.** in Toronto, ON, Canada, where I continuously enhance my skills in **quality assurance**. 🚀 In 2022, I specialized in **Automation testing** using Selenium and Java and worked as an Automation Test Engineer for about a year. From 2016 to 2019, I gained hands-on experience as a **QA Engineer**, focusing on various aspects of **software testing**.  🌍 I am passionate about **accessibility** and believe the digital world should be more inclusive and welcoming for everyone. In my QA role, I am committed to contributing to this vision by improving the **usability**, **accessibility**, and overall quality of digital products.
+I'm a **QA Engineer** with over 4 years of experience in **functional and automation testing**.Currently, I am employed as a **QA Analyst-Intern** at **Racad Tech Inc.** in Vaughan, ON, Canada, where I continuously enhance my skills in **quality assurance**. 🚀 In 2022, I specialized in **Automation testing** using Selenium and Java and worked as an Automation Test Engineer for about a year. From 2016 to 2019, I gained hands-on experience as a **QA Analyst**, focusing on various aspects of **software testing**.  🌍 I am passionate about **accessibility** and believe the digital world should be more inclusive and welcoming for everyone. In my QA role, I am committed to contributing to this vision by improving the **usability**, **accessibility**, and overall quality of digital products.
 
 
 ## My Experience👔
 **Racad Tech Inc.** - QA Analyst-Intern
 August/2023-Present
 
+
+
 **Alignminds Technology**- QA Analyst
 Jan/2016 - May/2019
 
+## Projects📁
+These are the projects which I have worked
+### Website Migration & Testing 4.0 to 5.0 
+### Web Ordering System for Food Chain
+### Micro-banking System Development
+### Auction Inventory Management Operating System(AIMOS)
 
 ## Tools 🛠️
 - **[Slack](https://slack.com/)**: Team Communication and collaboration
@@ -32,9 +40,9 @@ Jan/2016 - May/2019
 - **[Maven](https://mvnrepository.com/)**: Build Automation
 - **Jenkins**: CI/CD Automation Server
 - **SSMS**: SQL Server Management Studio
-- axe Devtools:
--  **[Azure Devops - Test Plan](https://learn.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops)**: Test Management
--  **[qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager)**:Test case management and bug reporting tool.
+- **axe Devtools**
+- **[Azure Devops - Test Plan](https://learn.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops)**: Test Management
+- **[qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager)**:Test case management and bug reporting tool.
 ## Tech Skills💻
 
 - **SQL**
@@ -55,6 +63,8 @@ Jan/2016 - May/2019
 - **Scrum workflow**
 - **User Acceptance Testing**
 - **Mobile and Web Apps**
+- **Experience with SaaS & Wordpress, and basic knowledge in Salesforce**
+-  **Basic knowledge in ETL Testing a using Informatica PowerCenter**
 
 ## Soft Skills🤝
 

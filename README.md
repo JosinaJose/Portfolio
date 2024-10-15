@@ -91,7 +91,6 @@ These are the projects I have worked on:
 - **Scrum workflow**
 - **User Acceptance Testing**
 - **Mobile and Web Apps**
-- **Experience with SaaS & Wordpress, and basic knowledge in Salesforce**
 -  **Basic knowledge in ETL Testing a using Informatica PowerCenter**
 
 ## Soft Skills🤝

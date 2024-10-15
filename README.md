@@ -7,19 +7,47 @@ I'm a **QA Engineer** with over 4 years of experience in **functional and automa
 
 ## My Experience👔
 **Racad Tech Inc.** - QA Analyst-Intern
-August/2023-Present
+
+*August/2023-Present*
 
 
+I developed an automation framework for regression testing, focusing on product and cart functionality, which improved test execution speed by 40% and increased test coverage by 30%. Additionally, I conducted regression testing of web applications to ensure stability and functionality during new releases and website migrations, contributing to a 25% increase in website stability. This work was executed in a Windows 11 environment using tools such as MySQL, Jira, Zephyr Scale, Eclipse, Selenium, Java, Rest API, and Postman. I also utilized Git and GitHub for version control, alongside Google Drive and Google Workspace apps (Docs, Sheets, Slides) for collaboration and documentation, while coordinating with my team via Slack. Additionally, I created test cases, reported bugs, and generated detailed test reports. 
 
 **Alignminds Technology**- QA Analyst
-Jan/2016 - May/2019
+
+
+*Jan/2016 - May/2019*
+
+
+At Alignminds Technology, as a QA Analyst, I implemented standardized test cases across multiple projects to ensure consistent quality. I efficiently prioritized and executed testing tasks to support timely project completion and identified opportunities for automation to enhance testing processes. I collaborated with cross-functional teams to ensure that new features and bug fixes were thoroughly tested. Additionally, I developed and maintained quality assurance procedures and documentation to streamline our testing efforts.
 
 ## Projects📁
-These are the projects which I have worked
-### Website Migration & Testing 4.0 to 5.0 
-### Web Ordering System for Food Chain
-### Micro-banking System Development
-### Auction Inventory Management Operating System(AIMOS)
+These are the projects I have worked on:
+
+
+**Website Migration & Testing 4.0 to 5.0**
+- Conducted regression testing of web applications to ensure stability and functionality during new releases and website migrations, contributing to a 25% increase in website stability.
+- Developed an automation framework for regression testing, focusing on product and cart functionality, which improved test execution speed by 40% and increased test coverage by 30%.
+
+
+**Web Ordering System for Food Chain**
+- Developed and tested a web ordering system for a food chain, resulted in streamlined customer order process and increased online orders by 25%.
+- Conducted user registration, menu browsing, order selection, payment processing, and delivery tracking tests, resulting in ensured seamless user experience and functionality.
+- Developed automated test scripts using Selenium WebDriver and TestNG, implementing data-driven testing for web application.
+- Utilized TestNG framework to create and manage automation test cases for Web and Mobile apps(appium), ensuring consistent and repeatable test executions and reduced execution time by 25%.
+
+ **Micro-banking System Development**
+- Conducted functional testing, integration testing, and regression testing across various modules of the Micro-backing System, including account opening, deposits, withdrawals, loan processing, and transaction history tracking.
+- Conducted SQL testing to validate database integrity and functionality using MySQL and Workbench.
+- Developed and Maintained QA procedure documentation (Test plan, Test cases, Bug report, RTM, Test Report).
+- Conducted API testing using Postman and REST APIs to validate request/response data, ensure functionality, and identify issues, resulting in a 25% reduction in API-related defects across multiple releases.
+**Auction Inventory Management Operating System(AIMOS)**
+- Created and maintained API testing collections in Postman, reducing test time by 30%.
+- Validated user registration, deposit management, vehicle search, watch list, auction participation, payment processing.
+- Identified, Documented, and reported defects and collaborated with development teams to ensure timely resolution.
+- Performed agile testing within delivery sprints, ensuring timely and accurate test execution and reporting, which improved sprint completion rates by 20%.
+
+
 
 ## Tools 🛠️
 - **[Slack](https://slack.com/)**: Team Communication and collaboration
@@ -85,5 +113,11 @@ These are the projects which I have worked
 - **Software Testing Bootcamp Training | Udemy-Online:Playwright, JavaScript, Web Design and testing Accessibility (AODA), Lighthouse, Voiceover, JAWS, Microsoft Narator, WAVE, W3C Validator, WCAG, WCAG 
    2.0 AA, Azure Devops-Test Plan**
 - **Associate Course: The complete Salesforce | Udemy**
+
+## Project Samples🔬
+- **[Test Plan](https://drive.google.com/drive/folders/1R3kwYe5_BZi2IW7NSpguq2gug3tEcVpU)**
+- **[Test Report](https://drive.google.com/drive/folders/1R3kwYe5_BZi2IW7NSpguq2gug3tEcVpU)**
+  
+
   
 

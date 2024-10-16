@@ -119,6 +119,7 @@ These are the projects I have worked on:
 ## Project Samples🔬
 - **[Test Plan](https://github.com/JosinaJose/Portfolio/blob/main/Test%20Plan.pdf)**
 - **[Test Report](https://github.com/JosinaJose/Portfolio/blob/main/Test%20Report.pdf)**
+- **[Mobile App Automation Testing](https://github.com/JosinaJose/ShoppingCart_Appium)**
   
 
   

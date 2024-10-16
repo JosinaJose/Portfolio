@@ -114,8 +114,8 @@ These are the projects I have worked on:
 - **Associate Course: The complete Salesforce | Udemy**
 
 ## Project Samples🔬
-- **[Test Plan](https://drive.google.com/drive/folders/1R3kwYe5_BZi2IW7NSpguq2gug3tEcVpU)**
-- **[Test Report](https://drive.google.com/drive/folders/1R3kwYe5_BZi2IW7NSpguq2gug3tEcVpU)**
+- **[Test Plan](https://drive.google.com/file/d/10UPkKmYAOY1yzqPdcXTOIrOlSx9XtVqQ/view?usp=sharing)**
+- **[Test Report](https://drive.google.com/file/d/1mmQC2qbCrtc2XbIYMglBztQMY1ZZXzQy/view?usp=sharing)**
   
 
   

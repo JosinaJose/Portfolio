@@ -11,7 +11,7 @@ I'm a **QA Engineer** with over 4 years of experience in **functional and automa
 *August/2023-Present*
 
 
-I developed an automation framework for regression testing, focusing on product and cart functionality, which improved test execution speed by 40% and increased test coverage by 30%. Additionally, I conducted regression testing of web applications to ensure stability and functionality during new releases and website migrations, contributing to a 25% increase in website stability. This work was executed in a Windows 11 environment using tools such as MySQL, Jira, Zephyr Scale, Eclipse, Selenium, Java, Rest API, and Postman. I also utilized Git and GitHub for version control, alongside Google Drive and Google Workspace apps (Docs, Sheets, Slides) for collaboration and documentation, while coordinating with my team via Slack. Additionally, I created test cases, reported bugs, and generated detailed test reports. 
+As a QA Analyst, I specialize in analyzing project documents and creating comprehensive testing documentation, including test plans, test cases, bug reports, and coverage reports. I collaborate closely with clients and developers to resolve issues through Zendesk. I also perform accessibility testing using Axe DevTools, ensuring web applications comply with WCAG 2.1 standards. My efforts in improving color contrast, screen reader compatibility, and keyboard navigation have enhanced the user experience for individuals with disabilities by 25%. 
 
 **Alignminds Technology**- QA Analyst
 
@@ -26,8 +26,11 @@ These are the projects I have worked on:
 
 
 **Website Migration & Testing 4.0 to 5.0**
-- Conducted regression testing of web applications to ensure stability and functionality during new releases and website migrations, contributing to a 25% increase in website stability.
-- Developed an automation framework for regression testing, focusing on product and cart functionality, which improved test execution speed by 40% and increased test coverage by 30%.
+- Analyzed project documents and created testing documentation, including test plans, test cases, bug reports, and test coverage reports.
+- Collaborated with clients and developers to resolve issues raised through Zendesk.
+- Utilized Axe DevTools to perform accessibility testing across web applications, ensuring compliance with WCAG 2.1 standards. Identified and resolved issues related to color contrast, screen reader 
+  compatibility, and keyboard navigation, improving user experience for individuals with disabilities by 25%.
+
 
 
 **Web Ordering System for Food Chain**
@@ -114,8 +117,8 @@ These are the projects I have worked on:
 - **Associate Course: The complete Salesforce | Udemy**
 
 ## Project Samples🔬
-- **[Test Plan](https://drive.google.com/file/d/10UPkKmYAOY1yzqPdcXTOIrOlSx9XtVqQ/view?usp=sharing)**
-- **[Test Report](https://drive.google.com/file/d/1mmQC2qbCrtc2XbIYMglBztQMY1ZZXzQy/view?usp=sharing)**
+- **[Test Plan](https://github.com/JosinaJose/Portfolio/blob/main/Test%20Plan.pdf)**
+- **[Test Report](https://github.com/JosinaJose/Portfolio/blob/main/Test%20Report.pdf)**
   
 
   

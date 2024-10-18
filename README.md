@@ -40,7 +40,7 @@ These are the projects I have worked on:
 - Utilized TestNG framework to create and manage automation test cases for Web and Mobile apps(appium), ensuring consistent and repeatable test executions and reduced execution time by 25%.
 
  **Micro-banking System Development**
-- Conducted functional testing, integration testing, and regression testing across various modules of the Micro-backing System, including account opening, deposits, withdrawals, loan processing, and transaction history tracking.
+ - Conducted functional testing, integration testing, and regression testing across various modules of the Micro-backing System, including account opening, deposits, withdrawals, loan processing, and transaction history tracking.
 - Conducted SQL testing to validate database integrity and functionality using MySQL and Workbench.
 - Developed and Maintained QA procedure documentation (Test plan, Test cases, Bug report, RTM, Test Report).
 - Conducted API testing using Postman and REST APIs to validate request/response data, ensure functionality, and identify issues, resulting in a 25% reduction in API-related defects across multiple releases.

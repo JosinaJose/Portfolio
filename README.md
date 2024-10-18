@@ -115,7 +115,7 @@ These are the projects I have worked on:
 - **[Google Data Analytical Professional Certificate](https://www.credly.com/badges/b9774d48-a8bf-4d33-a1a4-9abdadcf0b48/public_url)** | **Grow with Google on Coursera 2022**
 - **Software Testing Bootcamp Training | Udemy-Online:Playwright, JavaScript, Web Design and testing Accessibility (AODA), Lighthouse, Voiceover, JAWS, Microsoft Narator, WAVE, W3C Validator, WCAG, WCAG 
    2.0 AA, Azure Devops-Test Plan**
-- **Associate Course: The complete Salesforce | Udemy**
+- **[Associate Course: The complete Salesforce | Udemy](https://udemy-certificate.s3.amazonaws.com/image/UC-027f9cc4-50ef-4b1f-8cee-6a758a9f4afb.jpg?v=1727875807000)**
 
 ## Project Samples🔬
 - **[Test Plan](https://github.com/JosinaJose/Portfolio/blob/main/Test%20Plan.pdf)**

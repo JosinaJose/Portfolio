@@ -120,6 +120,11 @@ These are the projects I have worked on:
 - **[Test Plan](https://github.com/JosinaJose/Portfolio/blob/main/Test%20Plan.pdf)**
 - **[Test Report](https://github.com/JosinaJose/Portfolio/blob/main/Test%20Report.pdf)**
 - **[Mobile App Automation Testing](https://github.com/JosinaJose/ShoppingCart_Appium)**
+
+## Volunteering
+**Volunteer** | St. Catharines Museum & Welland Canals Centre, St Catharines, ON| 12/2022 – 01/2024
+Enhanced data entry accuracy by 50% through keen attention to detail, facilitating efficient management of large datasets. Collected and validated data from multiple sources.
+
   
 
   

@@ -78,7 +78,7 @@ These are the projects I have worked on:
 ## Tech Skills💻
 
 - **SQL**
-- **[ISTQB Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level)**Knowledge of fundamental principles and concepts in software testing.
+- **[ISTQB Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level)** Knowledge of fundamental principles and concepts in software testing.
 - **Good understanding of software development models: Waterfall, V Model, Iterative and Incremental Model, Agile.**
 - **REST API Testing**
 - **Test Case Creation**

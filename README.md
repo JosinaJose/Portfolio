@@ -44,6 +44,7 @@ These are the projects I have worked on:
 - Conducted SQL testing to validate database integrity and functionality using MySQL and Workbench.
 - Developed and Maintained QA procedure documentation (Test plan, Test cases, Bug report, RTM, Test Report).
 - Conducted API testing using Postman and REST APIs to validate request/response data, ensure functionality, and identify issues, resulting in a 25% reduction in API-related defects across multiple releases.
+
 **Auction Inventory Management Operating System(AIMOS)**
 - Created and maintained API testing collections in Postman, reducing test time by 30%.
 - Validated user registration, deposit management, vehicle search, watch list, auction participation, payment processing.

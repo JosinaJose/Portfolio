@@ -6,12 +6,16 @@ I'm a **QA Analyst** with 3.8 years of experience in **functional and automation
 
 
 ## My Experience👔
-**Racad Tech Inc.** - QA Analyst-Intern
+**Racad Tech Inc.** - QA Analyst
 
 *August/2023-Present*
 
 
 As a QA Analyst, I specialize in analyzing project documents and creating comprehensive testing documentation, including test plans, test cases, bug reports, and coverage reports. I collaborate closely with clients and developers to resolve issues through Zendesk. I also perform accessibility testing using Axe DevTools, ensuring web applications comply with WCAG 2.1 standards. My efforts in improving color contrast, screen reader compatibility, and keyboard navigation have enhanced the user experience for individuals with disabilities by 25%. 
+
+**BusyQA** - QA Analyst -Training and Co-op
+*Oct 2022 - Jun 2023
+
 
 **Alignminds Technology**- QA Analyst
 

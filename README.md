@@ -6,14 +6,14 @@ I'm a **QA Analyst** with 3.8 years of experience in **functional and automation
 
 
 ## My Experience👔
-**Racad Tech Inc.** - QA Analyst
+**Web to Print Solutions by RacadTech** - QA Analyst
 
 *August/2023-Present*
 
 
 As a QA Analyst, I specialize in analyzing project documents and creating comprehensive testing documentation, including test plans, test cases, bug reports, and coverage reports. I collaborate closely with clients and developers to resolve issues through Zendesk. I also perform accessibility testing using Axe DevTools, ensuring web applications comply with WCAG 2.1 standards. My efforts in improving color contrast, screen reader compatibility, and keyboard navigation have enhanced the user experience for individuals with disabilities by 25%. 
 
-**BusyQA** - QA Analyst -Training and Co-op
+**BusyQA** - QA Automation Engineer -Training and Co-op
 *Oct 2022 - Jun 2023
 
 
@@ -66,7 +66,7 @@ These are the projects I have worked on:
 - **[Google Drive](https://workspace.google.com/intl/en_ca/products/drive/)**: Storing Data
 - **[Git](https://git-scm.com/)**: For better team work and controls software versions.
 - **[GitHub](https://github.com/)**: supporting Git and managing repositories.
-- **[Tomcat](https://tomcat.apache.org/), [XAMPP](https://www.apachefriends.org/index.html), [Apache](https://httpd.apache.org/), [Local](https://localwp.com/)**: Web servers and application servers used for hosting applications and serving web content locally.
+- **[Tomcat](https://tomcat.apache.org/), Web Logic**: Web servers and application servers used for hosting applications and serving web content locally.
 - **[Postman](https://www.postman.com/)**: API testing
 - **[Eclipse](https://www.eclipse.org/)**: IDE for Java
 - **[Visual Code Studio](https://code.visualstudio.com/)**: IDE for Javascript, HTML and CSS

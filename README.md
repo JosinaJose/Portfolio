@@ -2,8 +2,7 @@
 
  Hello, I'm Josina Jose👋 
 
-I'm a **QA Analyst** with 3.8 years of experience in **functional and automation testing**.Currently, I am employed as a **QA Analyst-Intern** at **Racad Tech Inc.** in Vaughan, ON, Canada, where I continuously enhance my skills in **quality assurance**. 🚀 In 2022, I specialized in **Automation testing** using Selenium and Java and worked as an Automation Test Engineer for about a year. From 2016 to 2019, I gained hands-on experience as a **QA Analyst**, focusing on various aspects of **software testing**.  🌍 I am passionate about **accessibility** and believe the digital world should be more inclusive and welcoming for everyone. In my QA role, I am committed to contributing to this vision by improving the **usability**, **accessibility**, and overall quality of digital products.
-
+As an experienced Software Quality Assurance Analyst, I bring over 4 years of expertise in Quality Assurance, Software Testing, and Test Automation, particularly focusing on Web and Mobile Apps.  Throughout my career, I have gained experience in end-to-end test lifecycle including understanding the requirements, writing test plans and test cases, verifying UI functionality, reporting bugs and developing automation tests. My commitment to quality ensures the seamless delivery of high-quality software solutions.
 
 ## My Experience👔
 **Web to Print Solutions by RacadTech** - QA Analyst

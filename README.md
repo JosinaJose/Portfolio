@@ -2,7 +2,7 @@
 
  Hello, I'm Josina Jose👋 
 
-As an experienced Software Quality Assurance Analyst, I bring over 4 years of expertise in Quality Assurance, Software Testing, and Test Automation, particularly focusing on Web and Mobile Apps.  Throughout my career, I have gained experience in end-to-end test lifecycle including understanding the requirements, writing test plans and test cases, verifying UI functionality, reporting bugs and developing automation tests. My commitment to quality ensures the seamless delivery of high-quality software solutions.
+As an experienced Software Quality Assurance Analyst, I bring over 3 years of expertise in Quality Assurance, Software Testing, and Test Automation, particularly focusing on Web and Mobile Apps.  Throughout my career, I have gained experience in end-to-end test lifecycle including understanding the requirements, writing test plans and test cases, verifying UI functionality, reporting bugs and developing automation tests. My commitment to quality ensures the seamless delivery of high-quality software solutions.
 
 ## My Experience👔
 **Web to Print Solutions by RacadTech** - QA Analyst
